@@ -39,4 +39,8 @@
 
 .with-summary .sidebar-addition {
   display: block;
-}  
+} 
+
+.book-summary nav {
+  margin-bottom: 150px;
+}
